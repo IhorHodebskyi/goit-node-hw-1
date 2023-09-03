@@ -13,5 +13,10 @@
   "devDependencies": {
     "nodemon": "^3.0.1",
     "ts-node": "^10.9.1"
+  },
+  "dependencies": {
+    "commander": "^11.0.0",
+    "nanoid": "^3.3.4",
+    "yargs": "^17.7.2"
   }
 }
